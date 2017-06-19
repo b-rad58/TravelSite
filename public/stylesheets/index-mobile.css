@@ -1,0 +1,150 @@
+body{
+        font-size:  large;
+        font-family: Helvetica, sans-serif;
+    background-image: url("paper_fibers.png");
+}
+
+div.home{
+    clear:both;
+float:left;
+    padding: 10px;
+}
+div.header {
+    background-color:white;
+    border-color: darkred;
+    border-width: thick;
+    border-bottom-right-radius: 100px;
+    border-style: groove;
+    padding:25;
+    margin:10;
+}
+
+h2{
+
+}
+
+div#footer {
+    background-color: beige;
+    border-color: firebriick;
+    border-width: 8px;
+    border-style: dotted;
+    clear:both;
+}
+
+#allItinerary{
+    
+    float:left;
+}
+.Itinerary{ 
+    background-color:bisque;
+    border-style: groove;
+    border-width: medium;
+    border-color: black;
+    padding-bottom: 20;
+    margin-bottom: 20;
+    margin-top: 15;
+}
+
+
+
+p{
+padding-bottom: 20
+}
+
+
+div.picture{
+    float:left;
+    padding: 10;
+}
+
+div.content{
+    
+    
+}
+
+div#sidebar{
+    background-color: white;
+    border-style:solid;
+    border-width: 8;
+    border-color:black;
+    width: 250;
+    margin: 50;
+    padding: 20;
+    color:black;
+    font-family: serif;
+    border-radius:10px;
+
+}
+
+/*  EVERYTHING AFTER THIS IS FOR THE ITINERARY PAGE!*/
+
+div.top{
+    background-color: pink;
+
+}
+
+div#description{
+background-color: azure;
+float:;
+}
+
+div#program{
+float:left;
+    background-color: bisque;
+    margin-right: 20;
+}
+
+div#feedback{
+float:left;
+    background-color: coral;
+    clear:both;
+}
+
+div#dates{
+background-color: white;
+    float:left;
+      width:150px;
+    height:440px;
+    margin-right:10px;
+    border-style:hidden;
+}
+
+div.break{
+clear:both;
+}
+
+.button{
+    background-color: yellow;
+margin-right: 55px;
+    font-family: serif;
+
+
+/* 
+
+HYPERLINKS 
+
+*/
+
+a:link{
+    color:cornflowerblue;
+}
+
+a:visited {
+    
+    color:black;
+}
+
+a:hover {
+    
+    color:red;
+
+}
+
+
+
+
+
+
+
+
+
